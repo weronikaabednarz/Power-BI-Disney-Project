@@ -8,7 +8,7 @@ Purpose of statistical analysis:
 
 Technologies used in the project: Power BI
 Data imported from page: https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows 
- 
+
 Report:
 
 ![1](https://github.com/weronikaabednarz/Power-BI-Disney-Project/blob/main/images/disney_viewership_report.jpg)
