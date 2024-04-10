@@ -1,7 +1,7 @@
 # Power BI Disney Project
 
 Project subject: Analysis of released and watched films or series on the Disney Plus platform over the years.
-   
+
 Purpose of statistical analysis:
 - to present the changes in the type, quantity and location of creating films and series over time,
 - to present the changes in people's choice preferences among the productions they watch over time.
