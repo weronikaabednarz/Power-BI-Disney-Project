@@ -1,5 +1,5 @@
 # Power BI Disney Project
-
+ 
 Project subject: Analysis of released and watched films or series on the Disney Plus platform over the years.
 
 Purpose of statistical analysis:
