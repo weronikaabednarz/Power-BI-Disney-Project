@@ -1,5 +1,5 @@
 # Power BI Disney Project
- 
+
 ## About project
 The aim of the project was to analyze released and watched films or series on the Disney Plus platform over the years.
 Purpose of statistical analysis:
