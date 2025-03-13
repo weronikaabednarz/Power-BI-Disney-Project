@@ -5,7 +5,7 @@ The aim of the project was to analyze released and watched films or series on th
 Purpose of statistical analysis:
 - to present the changes in the **type**, **quantity** and **location** of creating films and series over time,
 - to present the changes in **people's choice preferences** among the productions they watch over time.
-
+ 
 The project allows for a better understanding of trends in film production and evolving viewer preferences, which can be valuable for content creators and streaming platforms.
 
 ## Dataset
