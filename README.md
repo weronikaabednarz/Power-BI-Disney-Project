@@ -12,7 +12,7 @@ The project allows for a better understanding of trends in film production and e
 The **dataset** used is from the kaggle platform: https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows, and includes 1450 different productions.
 
 ![1](https://github.com/weronikaabednarz/Power-BI-Disney-Project/blob/main/images/data.jpg) 
-
+ 
 ## Technologies
 The project was done using **Power BI** environment.
 
